@@ -1,7 +1,7 @@
-#a=${a}
-#b=${b}
+a=11
+b=21
 
-if ${a}==${b}:
+if a==b:
     print("brojevi isti")
 else:
     print("brojevi razliciti")
