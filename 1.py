@@ -1,5 +1,5 @@
-a=${a}
-b=${b}
+#a=${a}
+#b=${b}
 
 if ${a}==${b}:
     print("brojevi isti")
